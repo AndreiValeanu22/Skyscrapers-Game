@@ -22,4 +22,4 @@ Ideea principala este ca literele A,B,C si D reprezinta notarea tuturor elemente
 In principiu, pentru a trece dintr-un grup de 4 numere in alt grup de 4 numere, luandu-ne dupa input-uri, se vor folosii doua stari ajutatoare: q# si douaPct, iar verific_lit ajuta sa verificam daca numarul ales in aceea pozitie valideaza conditia problemei, si daca da, se afiseaza, in locul acestuia, litera corespunzatoare ei. Am folosit urmatoarele asocieri litera - numar: 
 A -> 1, B -> 2, C -> 3, D -> 4.
 
-Am folosit Python si Excel, ajutandu-ma si de site-ul https://web.archive.org/web/20240907093701/https://turingmachinesimulator.com/
+Am folosit Python si Excel, ajutandu-ma si de site-ul https://turingmachinesimulator.com/
